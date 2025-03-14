@@ -10,7 +10,7 @@ function stringChop(str, size) {
 	return chunks;
 }
 
-console.log(stringChop("Hello, world!", 5);
+console.log(stringChop("Hello, world!", 5));
 
 // Do not change the code below
 const str = prompt("Enter String.");
